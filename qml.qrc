@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MiteClassificationWindow.qml</file>
+        <file>CoordinateAxis.qml</file>
+        <file>DataPoint.qml</file>
+        <file>NetworkNode.qml</file>
+        <file>NetworkConnection.qml</file>
+        <file>logo.png</file>
+        <file>logo_w.png</file>
+        <file>DrawingCanvas.qml</file>
+        <file>HandwritingRecognitionWindow.qml</file>
+    </qresource>
+</RCC>
