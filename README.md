@@ -11,7 +11,7 @@
 
 演示效果如下：
 ![螨虫分类演示图](images/mite-gui-db.png)
-![手写数字识别演示图](images/mnist-gui-db.png)
+![手写数字识别演示图](images/digital-gui.png)
 
 详细的实现原理、过程和结果请参见项目中的PDF报告文件：[课程设计报告-BP神经网络.pdf](课程设计报告-BP神经网络.pdf)。
 
